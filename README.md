@@ -1,5 +1,3 @@
-# Day #78
-
 ### Titan Ai : Your own version on Google Gemini
 
 Build my own Generative AI App using Google Gemini API with Vanilla JavaScript. Create AI App like Google Gemini or ChatGPT step by step tutorial.
