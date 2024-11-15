@@ -10,7 +10,7 @@ Build my own Generative AI App using Google Gemini API with Vanilla JavaScript. 
 
 ## Warning
 
-You need to get your own **API Key** (in video we showed how!) and replace it in script.js file on line 12 :
+You need to get your own **API Key** and replace it in script.js file on line 12 :
 
 ```javascript
 const GOOGLE_API_KEY = "YOUR_API_KEY";
@@ -19,7 +19,7 @@ visit here to get your API Key : https://aistudio.google.com/app/apikey?_gl=1*8c
 
 # Screenshot
 
-Here we have project screenshot :
+Here we have project screenshot :![Screenshot 2024-11-15 183747](https://github.com/user-attachments/assets/d2963548-745e-4dd7-9181-35bf6d53aa63)
 
-![screenshot](https://github.com/user-attachments/assets/8ac56d86-e832-4d8c-b50d-fcef662d82e4)
+
 
