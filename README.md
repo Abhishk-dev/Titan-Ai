@@ -23,4 +23,5 @@ visit here to get your API Key : https://aistudio.google.com/app/apikey?_gl=1*8c
 
 Here we have project screenshot :
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/8ac56d86-e832-4d8c-b50d-fcef662d82e4)
+
